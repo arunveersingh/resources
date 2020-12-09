@@ -12,6 +12,6 @@ Thinking in Java | TextBook | Bruce Eckel
 Effective Java | TextBook | Joshua Bloach
 
 # Microservices 
-Resource | Media Type | Author
-:--------- | :----------- | :-------
-Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith | TextBook | Sam Newman
+ Resource | Media Type | Author
+ :--------- | :----------- | :-------
+ Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith | TextBook | Sam Newman
