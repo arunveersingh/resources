@@ -16,3 +16,4 @@ Java 8 in Action | TextBook | Raoul-Gabriel Urma, Mario Fusco, and Alan Mycroft
  Resource | Media Type | Author
  :--------- | :----------- | :-------
  Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith | TextBook | Sam Newman
+ https://martinfowler.com/articles/microservices.html | HTML | Martin Fowler and others
