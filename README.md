@@ -1,10 +1,10 @@
 # AWS
-Resource | Media Type
-:--------- | :-----------
+Resource | Media Type | Misc
+:--------- | :----------- | :-------
 https://aws.amazon.com/this-is-my-architecture | Videos
 https://docs.aws.amazon.com/ | HTML, PDF, Kindle, Github
 https://aws.amazon.com/getting-started/ | HTML
-https://lumigo.io/blog/sqs-and-lambda-the-missing-guide-on-failure-modes/ | HTML
+https://lumigo.io/blog/sqs-and-lambda-the-missing-guide-on-failure-modes/ | HTML | AWS SQS and Lambda Integration
 
 # Java 
 Resource | Media Type | Author
