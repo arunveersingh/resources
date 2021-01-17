@@ -4,6 +4,7 @@ Resource | Media Type
 https://aws.amazon.com/this-is-my-architecture | Videos
 https://docs.aws.amazon.com/ | HTML, PDF, Kindle, Github
 https://aws.amazon.com/getting-started/ | HTML
+https://lumigo.io/blog/sqs-and-lambda-the-missing-guide-on-failure-modes/ | HTML
 
 # Java 
 Resource | Media Type | Author
