@@ -4,7 +4,8 @@ Resource | Media Type | Misc
 https://aws.amazon.com/this-is-my-architecture | Videos
 https://docs.aws.amazon.com/ | HTML, PDF, Kindle, Github
 https://aws.amazon.com/getting-started/ | HTML
-https://lumigo.io/blog/sqs-and-lambda-the-missing-guide-on-failure-modes/ | HTML | AWS SQS and Lambda Integration
+https://lumigo.io/blog/sqs-and-lambda-the-missing-guide-on-failure-modes/ | HTML | AWS SQS and Lambda integration
+https://www.serverless.com/framework/docs/providers/aws/ | HTML | AWS & Serverless Framework integration
 
 # Java 
 Resource | Media Type | Author
@@ -12,6 +13,12 @@ Resource | Media Type | Author
 Thinking in Java | TextBook | Bruce Eckel
 Effective Java | TextBook | Joshua Bloach
 Java 8 in Action | TextBook | Raoul-Gabriel Urma, Mario Fusco, and Alan Mycroft
+
+# Object Oriented Design/Programming 
+Resource | Media Type | Author
+:--------- | :----------- | :-------
+Head First Design Patterns | TextBook | Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra
+Head First Object-Oriented Analysis and Design | TextBook | Brett McLaughlin, Gary Pollice, David West
 
 # Microservices 
  Resource | Media Type | Author
