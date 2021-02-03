@@ -25,3 +25,8 @@ Resource | Media Type | Author
  :--------- | :----------- | :-------
  Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith | TextBook | Sam Newman
  https://martinfowler.com/articles/microservices.html | HTML | Martin Fowler and others
+ 
+ # JavaScript
+ Resource | Media Type | Author
+:--------- | :----------- | :-------
+:sparkles: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/then | Web |  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/then/contributors.txt
